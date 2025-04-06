@@ -1,0 +1,4 @@
+"id","name","email","contact_number","address","created_on","updated_on"
+101,"John Brown","johnbrown@test.com","9239845643","Buffelo, US","2023-02-22 17:50:23","2023-02-22 17:50:23"
+102,"Steve Jake","steve@test.com","9239335643","California, US","2023-02-22 17:55:23","2023-02-22 17:55:23"
+"103","Steve Josh","josh@test.com","9234335643","California, US","2023-02-22 17:53:23","2023-02-22 17:53:23"
